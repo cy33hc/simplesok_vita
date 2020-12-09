@@ -1,0 +1,12 @@
+
+- internet scoring (& solutions?) - check out letslogic.net
+- think about some easy way to do a backup of solutions for an entire set
+- load names of levels, and display them in the level selection menu as well as in the ingame screen
+- playback control? (next/previous/speed control..)
+- fix the location of the icon in linux build
+
+- CTRL+V should work also with saved solutions with CTRL+C
+- make some tech documentation: id computation, internet levels, xsb format
+- add a check for level validity - does a flood fill from player pos goes out?
+
+- DEMO mode (?)
